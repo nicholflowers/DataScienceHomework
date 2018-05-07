@@ -1,0 +1,30 @@
+.container-fluid {
+    background: rgba(87, 3, 112, 0.952);
+    outline: .1px double black;
+    padding: 5%;
+}
+
+.jumbotron {
+    background-image: url("https://previews.123rf.com/images/ruslanshtefan/ruslanshtefan1710/ruslanshtefan171000004/87700602-color-vector-alien-head-from-patterns-on-a-black-background.jpg");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    display: compact;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.span6 {
+  style="float: none;
+  margin: 0 auto;
+}
