@@ -1,11 +1,11 @@
 .jumbotron {
     text-align: center;
-    background-color: rgba(3, 48, 100, 0.411);
+    background-color: green;
     min-height: 75px;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
 }
 
